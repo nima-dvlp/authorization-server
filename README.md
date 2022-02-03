@@ -2,6 +2,8 @@
 
 Authorization Server with Rust using Tonic.
 
+Note: This a clone of [authorization-server](https://github.com/jcsora/authorization-server) which is archive by the owner.
+
 ## Function implemented
 
 - User registration and profile store
